@@ -1,1 +1,3 @@
 KUMAR SAURABH MS in SE
+Fav Movie: XYZ
+Fav rEStaurant:ABC
